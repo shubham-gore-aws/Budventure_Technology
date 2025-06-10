@@ -12,3 +12,10 @@
 - cd ../Frontend
 - npm install
 - npm run dev
+
+# Mysql Dump File Attached 
+- Mysql administration 
+- Data import
+- Create database 
+- import File 
+- Start Import 
